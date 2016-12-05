@@ -11,7 +11,7 @@ MFC(Microsoft Foundation Class)
 OpenCV 3.1 IPL  
 X64 base  
 
-##P.S
+##P.S.
 This is a graduation project at School of Computer Science and Engineering, Koreatech.  
 This project was completed, and we will not provide any support about this project.
 
