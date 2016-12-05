@@ -1,5 +1,5 @@
 #A Pointing Device Using Hand Gesture Recognition
-
+@[](https://youtu.be/MEJw7ihrvu0)
 ## Abstract
 
 We proposed the augmented pointing device that provides user a realistic feeling of UI/UX for a variety of PC or mobile applications. A novel hand-gesture recognition based on concentric-circle algorithm is applied to improve its recognition performance.  
